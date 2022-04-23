@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTODO", "WebTODO\WebTODO.csproj", "{BAAC8C54-F268-4B2F-8B8B-A7278C05A9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAC8C54-F268-4B2F-8B8B-A7278C05A9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAC8C54-F268-4B2F-8B8B-A7278C05A9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAC8C54-F268-4B2F-8B8B-A7278C05A9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAC8C54-F268-4B2F-8B8B-A7278C05A9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62099E7E-5B64-4F1A-9610-9C87A770E831}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\bin\Debug\netcoreapp2.1\WebTODO.deps.json
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\bin\Debug\netcoreapp2.1\WebTODO.runtimeconfig.json
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\bin\Debug\netcoreapp2.1\WebTODO.runtimeconfig.dev.json
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\bin\Debug\netcoreapp2.1\WebTODO.dll
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\bin\Debug\netcoreapp2.1\WebTODO.pdb
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.RazorAssemblyInfo.cache
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.RazorAssemblyInfo.cs
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.AssemblyInfoInputs.cache
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.AssemblyInfo.cs
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.RazorTargetAssemblyInfo.cache
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.dll
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.pdb
+C:\Users\Tonny\source\repos\WebTODO\WebTODO\obj\Debug\netcoreapp2.1\WebTODO.csprojAssemblyReference.cache
